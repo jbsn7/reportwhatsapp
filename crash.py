@@ -71,7 +71,7 @@ print(f'''
 
 {red}[!]{green} Version 1.0
 
-''')
+
 
 sleep(0.1)
 
